@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818186152052",
+    "project_id": "kafesiparis-47b18",
+    "storage_bucket": "kafesiparis-47b18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818186152052:android:64f7ec5351677e2d3a8921",
+        "android_client_info": {
+          "package_name": "com.example.kafe_siparis_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWZK64QADakMDIuba6yPKOJEzAE3qs3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818186152052:android:7ff14981598e95b43a8921",
+        "android_client_info": {
+          "package_name": "com.rw.ornek_projec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWZK64QADakMDIuba6yPKOJEzAE3qs3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
